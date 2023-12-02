@@ -17,7 +17,7 @@ public class App {
     private static final String CAMINHO_DO_VIDEO = "D:\\Users\\User\\Desktop\\Guilherme\\java_progs_vscode\\avaliacao3\\avaliacao3\\ondas\\videoplayback.webm";
     
     private static final int TOTAL_DE_PARTIDAS = 10;
-    private static final int TOTAL_DE_LEITURAS = 3;
+    private static final int TOTAL_DE_LEITURAS = 10;
 
     private static List<Thread> executores = new ArrayList<>();
 
